@@ -311,4 +311,6 @@ when needed. I create branch for each level of each phase so you can see the res
 ## Resources
 
 - [Pest](https://pestphp.com/docs/installation)
-
+- Phase 1
+  - [Software Testing](https://medium.com/@suraif16/types-of-software-testing-e61d1441f07f)
+  - [What is TDD](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
